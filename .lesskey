@@ -1,0 +1,6 @@
+#command
+D back-scroll
+U forw-scroll
+
+#env
+LESS = --ignore-case --no-init --quit-if-one-screen --RAW-CONTROL-CHARS
