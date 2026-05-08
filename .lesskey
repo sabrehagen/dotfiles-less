@@ -1,6 +1,8 @@
 #command
-D back-scroll
+D forw-line
+S back-line
 U forw-scroll
+s back-scroll
 
 #env
 LESS = --ignore-case --no-init --quit-if-one-screen --RAW-CONTROL-CHARS
